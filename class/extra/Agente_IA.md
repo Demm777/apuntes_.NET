@@ -4,6 +4,7 @@
 **muñeco con linea:** actores del negocio
 <br>
 **circulo:** procesos del negocio
+
 ![Diagrama](https://www.researchgate.net/publication/266316706/figure/fig6/AS:651890572402690@1532434232472/Figura-73-Diagrama-de-casos-de-uso-de-negocio-para-el-sistema-del-hotel.png)
 
 ## Herramientas

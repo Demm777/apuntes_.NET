@@ -21,8 +21,10 @@
    2. todas las plataformas -> windows
    3. buscar: asp .
    - [X] ASP net core (modelo-vista-controlador)
-    ![img1](/img/img1.png)
-    4. ASP .net (framework) "despues"
+  
+   ![img1](/img/img1.png)
+
+   1. ASP .net (framework) "despues"
 
 # Instalar SQL Server, Express edition (22)
 > **No** se va a usar esta version
