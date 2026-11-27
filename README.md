@@ -10,10 +10,11 @@
 | :--------------: | :--------------: |
 | 13:00 pm - 17:30 | 13:00 pm - 17:30 |
 
-
+## Repositorio del proyecto en .NET
+[**Eventos3315298**](https://github.com/Demm777/VisualStudioEventos.git)
 
 ## clase: 
-- [**Principal**](./principal.md)
+[**Principal**](./principal.md)
 ## Actividades:
 | titulo                          | enlace                   |
 | ------------------------------- | ------------------------ |
